@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import ShowCard from "./ShowCard";
 import ShowPeople from "./ShowPeople";
 
