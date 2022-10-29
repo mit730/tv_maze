@@ -5,7 +5,7 @@ import ShowPeople from "./ShowPeople";
 function Cards(props){
 
  const myChoice = props.choice;
- if(props.data.length != 0){
+ if(props.data.length !== 0){
     return( 
         <>
         {(myChoice === "shows") ?
